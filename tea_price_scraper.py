@@ -1,3 +1,12 @@
+'''
+Tea_Price_Scrapper 
+This code is specifically designed for an internship at BIPP,ISB
+Name: Subhashis Kar
+Degree: Bachelor of Technology
+Field of Study: Computer Science and Engineering
+Year of Study: Final 
+'''
+
 import os                           # Importing the os module for working with file and directory paths
 import requests                     # Importing the requests library for making HTTP requests
 import pandas as pd                 # Importing the pandas library for working with dataframes
