@@ -4,12 +4,13 @@
 This Python script scrapes weekly tea prices from a website and saves the data to separate CSV files for each year. Tea Price Scraper: A Python script to scrape and save weekly tea prices from a website. This repository is for the first round of the selection process for the role of Intern - Data Engineering at BIPP, ISB.
 
 ## Requirements
-
-- Python3 [Recommended](https://www.python.org/ftp/python/3.9.8/python-3.9.8-amd64.exe)
-- requests library [Pypi](https://pypi.org/project/requests/)
-- pandas library [Pypi](https://pypi.org/project/pandas/)
-- BeautifulSoup library [Pypi](https://pypi.org/project/beautifulsoup4/)
-- Lxml [Pypi](https://pypi.org/project/lxml/)
+|Requirements|Links|
+|:--|:--:|
+|```Python3``` |[Recommended](https://www.python.org/ftp/python/3.9.8/python-3.9.8-amd64.exe)|
+|```requests``` library |[Pypi](https://pypi.org/project/requests/)|
+|```pandas``` library |[Pypi](https://pypi.org/project/pandas/)|
+|```beautifulsoup``` library |[Pypi](https://pypi.org/project/beautifulsoup4/)|
+|```lxml``` |[Pypi](https://pypi.org/project/lxml/)|
 
 ## Installation
 
