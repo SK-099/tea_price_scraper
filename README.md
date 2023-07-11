@@ -42,7 +42,7 @@ This Python script scrapes weekly tea prices from a website and saves the data t
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/tea-price-scraper.git
+   git clone https://github.com/SK-099/tea-price-scraper.git
    ```
 
 2. Change to the project directory:
