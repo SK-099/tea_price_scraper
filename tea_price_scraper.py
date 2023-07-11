@@ -1,3 +1,14 @@
+'''
+Tea_Price_Scraper 
+
+◉ This code is specifically designed for an internship at BIPP,ISB. 
+◉ This is the modified code of the 'old.py' file which was updated in accordance with the conversation with the recruiting manager for the intended internship role.
+
+Name: Subhashis Kar
+Degree: Bachelor of Technology
+Field of Study: Computer Science and Engineering
+Year of Study: Final 
+'''
 
 import requests                  # Import the requests library, which allows us to make HTTP requests.
 import pandas as pd              # Import the pandas library, which allows us to work with dataframes.
