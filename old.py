@@ -1,7 +1,8 @@
 '''
 Tea_Price_Scrapper 
-This code is specifically designed for an internship at BIPP,ISB
-This is a older version. The updated version of the code can be accessed from this link: 
+◉ This code is specifically designed for an internship at BIPP,ISB
+◉ This is a older version. The updated version of the code can be accessed from this link: 
+   https://github.com/SK-099/tea_price_scraper/blob/d267dc527ce1f7b13fc11d8ae5e463b0eab34310/tea_price_scraper.py
 
 Name: Subhashis Kar
 Degree: Bachelor of Technology
