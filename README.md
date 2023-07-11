@@ -82,7 +82,7 @@ This Python script scrapes weekly tea prices from a website and saves the data t
    python scrape_tea_prices.py
    ```
 
-4. The script will scrape the tea prices for the specified years and save the data to separate CSV files.
+4. The script will scrape the tea prices for the specified years, consolidate and transform them into a single CSV file and save that file.
 
 ## Contributing
 
