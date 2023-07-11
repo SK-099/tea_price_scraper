@@ -67,7 +67,7 @@ This Python script scrapes weekly tea prices from a website and saves the data t
 
 ## Usage
 
-1. Open the `scrape_tea_prices.py` file.
+1. Open the `tea_price_scraper.py` file.
 
 2. Modify the range of years if needed:
 
