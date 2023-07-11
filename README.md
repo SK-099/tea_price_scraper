@@ -1,3 +1,30 @@
+<h1 align="center">Hi 👋, I'm Subhashis Kar</h1>
+<p align="center">
+<picture>
+<img src="https://github.com/SK-099/tea_price_scraper/assets/93715697/93dd7f1a-fa39-4b2f-9a0b-945257b28156" width=15%>
+</picture>
+</p>
+<h3 align="center">A passionate research oriented student from Howrah</h3>
+<p align="center">
+<picture>
+<img src="https://komarev.com/ghpvc/?username=sk-099&label=Profile%20views&color=0e75b6&style=flat" alt="sk-099" />
+</picture>
+</p>
+
+
+
+
+- 🌱 I’m currently learning **Data Science, Quantum Computing**
+
+- 👯 I’m looking to collaborate on any project on **Quantum Computing or Image Processing.**
+
+- 💬 Ask me about **Scikit-Image,Seaborn,Pandas,Matplotlib,Scipy,Numpy**
+
+- 📫 How to reach me **subhashiskar454@gmail.com**
+
+---
+
+<h3 align="center">About this Repository</h3> 
 
 # Tea Price Scraper
 
