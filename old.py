@@ -1,6 +1,8 @@
 '''
 Tea_Price_Scrapper 
 This code is specifically designed for an internship at BIPP,ISB
+This is a older version. The updated version of the code can be accessed from this link: 
+
 Name: Subhashis Kar
 Degree: Bachelor of Technology
 Field of Study: Computer Science and Engineering
